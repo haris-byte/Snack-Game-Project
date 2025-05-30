@@ -1,21 +1,5 @@
-## ✅ Project Description
-
-This project is a console-based Snake game implemented in C++ using a **singly linked list** to manage the snake's body. The snake grows in length when it eats food, and the game ends when the snake collides with the wall or itself. It also maintains a **high score leaderboard** saved in a file (`highscore.txt`).
-
-Key features:
-
-* Snake body implemented using a dynamic data structure (linked list).
-* Real-time movement control using `w`, `a`, `s`, `d`.
-* Food spawns randomly without overlapping the snake.
-* Score tracking and persistent high score management.
-* Clear screen animations using Windows API.
-* Console-based user interface with board display.
-
----
-
 ## 📝 README.md
 
-````markdown
 # 🐍 Snake Game using Singly Linked List in C++
 
 This is a classic Snake game developed in C++ that uses a **singly linked list** to represent the snake's body dynamically. The game runs in the Windows console and keeps track of scores, including persistent high scores stored in a text file.
@@ -101,18 +85,5 @@ Enter to start!
 
 ---
 
-## 📜 License
 
-This project is open-source and available under the [MIT License](LICENSE).
 
-```
-
----
-
-If you'd like, I can also generate:
-- A `LICENSE` file (MIT or other)
-- GitHub repository structure
-- A preview image or GIF for the game (using ASCII board)
-
-Let me know what else you want to enhance for GitHub!
-```
